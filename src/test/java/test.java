@@ -42,20 +42,6 @@ public class test {
     }
 
 
-//    @Test
-//    public void click() {
-//        inventory.VwaitElementVisible(inventory.link);
-//        inventory.link.click();
-   // }
-
-//    @Test( groups = "login")
-//    public void click() {
-//        abcd.link2.click();
-//        abcd.link.click();
-//        WebDriverWait wait1 = new WebDriverWait(driver, 30);
-//        wait1.until(ExpectedConditions.visibilityOf(abcd.link3));
-//        abcd.link3.click();
-//    }
 
     @AfterSuite
     public void closeDriver() {
