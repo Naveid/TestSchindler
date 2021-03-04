@@ -6,7 +6,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 
 import javax.xml.xpath.XPath;
 
-public class checkoutPage {
+    public class checkoutPage {
     WebDriver driver;
 
     public checkoutPage(WebDriver driver) {
